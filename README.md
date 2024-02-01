@@ -1,4 +1,6 @@
 # Daily Water Needed Calculator
+
+# How to Run:
 Before using this program, make sure that Python is installed on your system.
 
 ## Windows
